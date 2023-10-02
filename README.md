@@ -25,7 +25,7 @@ You may also see any lint errors in the console.
 
 ## Screenshots
 
-![image]([frontend-bank\public\Sign In - Bank.png](https://github.com/edwardmarcheselli/frontend-bank/blob/master/public/Sign%20In%20-%20Bank.png))
+[frontend-bank\public\Sign In - Bank.png](https://github.com/edwardmarcheselli/frontend-bank/blob/master/public/Sign%20In%20-%20Bank.png
 
 ## Technology used
 
