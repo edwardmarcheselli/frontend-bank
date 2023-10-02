@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+
+# Project Title: Unsecure Bank
+
+## Description
+
+This project exists to simulate banking transactions using the MERN Stack. This was built as a simple project that shows how a banking applications perform their user transactions.
+
+
+
+# Installation Guide
+
+git clone https://github.com/edwardmarcheselli/frontend-bank.git
+
+`npm install`
+
+This will install all dependencies
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,6 +28,28 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## Screenshots
+
+![Sign-in](frontend-bank\public\Sign In - Bank.png)
+
+## Technology used
+
+Node.js
+Express.js
+React
+Mongodb
+
+
+## Features
+Multi-user account tracking
+
+## License: MIT
+
+
+
+
+
 
 ### `npm test`
 
