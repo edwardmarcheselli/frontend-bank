@@ -15,12 +15,6 @@ git clone https://github.com/edwardmarcheselli/frontend-bank.git
 
 This will install all dependencies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -31,14 +25,14 @@ You may also see any lint errors in the console.
 
 ## Screenshots
 
-![Sign-in](frontend-bank\public\Sign In - Bank.png)
+![image](frontend-bank\public\Sign In - Bank.png)
 
 ## Technology used
 
-Node.js
-Express.js
-React
-Mongodb
+Node.js \
+Express.js \
+React \
+Mongodb \
 
 
 ## Features
